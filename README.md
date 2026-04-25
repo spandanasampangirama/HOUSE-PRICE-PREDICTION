@@ -156,8 +156,4 @@ house_price/
 
 ---
 
-## 👨‍💻 Author
 
-**SPANDU**
-B.Tech — Artificial Intelligence & Machine Learning
-PES University, Bengaluru

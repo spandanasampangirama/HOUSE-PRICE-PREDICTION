@@ -1,14 +1,4 @@
-"""
-=============================================================
-  CAPSTONE PROJECT 1: HOUSE PRICE PREDICTION
-  Machine Learning with Python
-  Author: SPANDU | PES University
-=============================================================
-  Objective : Predict house prices based on various features
-  Models    : Linear Regression, Ridge, Random Forest, XGBoost
-  Metrics   : RMSE, MAE, R² Score
-=============================================================
-"""
+
 
 import numpy as np
 import pandas as pd
